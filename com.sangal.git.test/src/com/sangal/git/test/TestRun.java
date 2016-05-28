@@ -5,5 +5,7 @@ public class TestRun {
 		System.out.println("git is cool");
 		System.out.println("THis is new");
 		System.out.println("This is to test merget");
+		System.out.println("This is to test merget");
+
 	}
 }
